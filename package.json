@@ -1,16 +1,19 @@
 {
-  "name": "beminar-2",
+  "name": "beminar-4",
   "version": "0.0.1",
   "description": "Building BEM-like project with Gulp.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bem-events/beminar-1.git"
+    "url": "https://github.com/bem-events/beminar-4.git"
   },
   "author": "Dima Belitsky",
+  "contributors": [
+    "Vit Karpov <viktor.s.karpov@gmail.com>"
+  ],
   "bugs": {
-    "url": "https://github.com/bem-events/beminar-1/issues"
+    "url": "https://github.com/bem-events/beminar-4/issues"
   },
-  "homepage": "https://github.com/bem-events/beminar-1",
+  "homepage": "https://github.com/bem-events/beminar-4",
   "devDependencies": {
     "browser-sync": "^2.6.9",
     "gulp": "^3.8.11",
